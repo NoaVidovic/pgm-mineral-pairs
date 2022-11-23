@@ -1,0 +1,5 @@
+name: venv-pgm
+channels:
+  - defaults
+  - conda-forge
+  - astropy
