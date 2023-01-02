@@ -1,4 +1,4 @@
-# mineral-evolution-data
+# pgm-mineral-pairs
 
 ## Installation
 To run this code on your device, use `git clone` to download the code and within the downloaded directory run
